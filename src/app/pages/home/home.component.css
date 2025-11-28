@@ -1,0 +1,6 @@
+.articles {
+  margin: 30px
+;
+  display: flex;
+  flex-direction: row;
+}
