@@ -1,6 +1,11 @@
 .articles {
-  margin: 30px
-;
+  margin: 30px;
   display: flex;
   flex-direction: row;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+
 }

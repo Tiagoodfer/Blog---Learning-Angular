@@ -1,0 +1,13 @@
+.menu {
+  margin-top: 15px;
+}
+.menu > ul {
+  display: flex;
+  flex-direction: row;
+}
+
+.menu > ul > li {
+  margin-right: 20px;
+  list-style: none;
+  font-size: 25px;
+}
